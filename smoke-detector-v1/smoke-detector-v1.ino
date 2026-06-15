@@ -46,7 +46,7 @@ void setup() {
   pinMode(MQ2_DO,    INPUT);
 
   Serial.println("=============================");
-  Serial.println("  ThreeBoardsLab Smoke Detector v1");
+  Serial.println("  threeboardslab Smoke Detector v1");
   Serial.println("  Warming up MQ-2 sensor...");
   Serial.println("=============================");
 
